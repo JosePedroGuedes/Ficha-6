@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+.tittle {
+    color: #FFFFFF;
+    font-family: 'Raleway';
+    font-size: 50px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+}
+
+.paragrafo {
+    color: #BDBDBD;
+    font-family: 'Raleway';
+    margin-left: 100px;
+    margin-top: 40px;
+
+}
+
+.button {
+    color: #FFFFFF;
+    background-color: #2B892E;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 15px 30px;
+    border-radius: 20px ;
+    border: #2B892E;
+    font-size: 15px;
+}
+
+.image {
+    max-width: 700px;
+    margin-top: 70px;
+    margin-left: 100px;
+}
